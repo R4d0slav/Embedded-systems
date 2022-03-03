@@ -1,0 +1,11 @@
+main.c:106:6:delay	16	static
+main.c:131:5:main	48	static
+main.c:231:6:SystemClock_Config	96	static
+main.c:288:13:MX_TIM1_Init	40	static
+main.c:335:13:MX_GPIO_Init	48	static
+main.c:380:6:StartReadDistanceTask	32	static
+main.c:419:6:StartDisplayDistanceTask	40	static
+main.c:447:11:getRndRect	48	static
+main.c:459:6:displayRain	72	dynamic
+main.c:505:6:StartButtonTask	48	static
+main.c:561:6:Error_Handler	4	static,ignoring_inline_asm
